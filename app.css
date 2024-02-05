@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    padding: 10px;
+}
+
+#search {
+    padding: 10px;
+}
+
+.submitButton {
+    padding: 10px;
+    background-color: gray;
+    color: white;
+    
+}
+
+.submitButton:hover {
+    background-color: black;
+}
+
+#remove {
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+}
